@@ -1,0 +1,7 @@
+# application-prod.yml
+spring:
+  cloud:
+    gcp:
+      sql:
+        enabled: true
+        database-name: sigea_db

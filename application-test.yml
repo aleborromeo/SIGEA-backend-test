@@ -1,0 +1,6 @@
+# application.yml
+spring:
+  cloud:
+    gcp:
+      sql:
+        enabled: false
